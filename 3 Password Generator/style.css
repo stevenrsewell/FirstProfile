@@ -20,3 +20,10 @@ h2 {
     padding: 5px;
     margin-bottom: 10px;
 }
+
+#copy {
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    margin-bottom: 10px;
+}

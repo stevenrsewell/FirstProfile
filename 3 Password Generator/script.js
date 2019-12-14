@@ -32,7 +32,7 @@ else {
             charList = charList + "abcdefghijklmnopqrstuvwxyz";
         }
 
-       
+
         var password = "";
         for (var i = 0; i < passCharacterLength; i++) {
             password += charList[Math.floor(Math.random() * charList.length)];
